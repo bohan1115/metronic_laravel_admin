@@ -1,0 +1,39 @@
+{
+    "name": "kris/laravel-form-builder",
+    "description": "Laravel form builder - symfony like",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kristijan Husak",
+            "email": "husakkristijan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "laravelcollective/html": "5.*",
+        "illuminate/database": "5.*@dev",
+        "illuminate/validation": "5.*@dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "orchestra/testbench": "~3.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.6.x-dev"
+        }
+    },
+    "autoload": {
+        "psr-0": {
+            "Kris\\LaravelFormBuilder": "src/"
+        },
+        "classmap": [
+            "tests/FormBuilderTestCase.php"
+        ],
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

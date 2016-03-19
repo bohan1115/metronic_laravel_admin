@@ -1,0 +1,1 @@
+<a href="{{$data['url']}}?id={{$data['id']}}">{{$data['field']}}</a>
