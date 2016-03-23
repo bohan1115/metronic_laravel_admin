@@ -1,7 +1,7 @@
 
-这是一个 metronic 风的 laravel 后台框架
+这是一个 metronic 风格的 laravel 后台框架
 
-为了适应metronic风格，修改了 Laravel form builder 代码，但是并没有提交到 Laravel form builder仓库
+为了适应metronic风格，修改了 Laravel form builder 代码，但是并没有提交到 Laravel form builder仓库,包含在了项目中
 
 这不是一个laravel 插件，而是一个可以执行的项目
 
