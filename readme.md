@@ -1,11 +1,12 @@
 
-这是一个 metronic 风格的 laravel 后台框架
+这是一个 metronic（v4.1.0） 风格的 laravel 后台框架
 
 为了适应metronic风格，修改了 Laravel form builder 代码，但是并没有提交到 Laravel form builder仓库,包含在了项目中
 
 这不是一个laravel 插件，而是一个可以执行的项目.
 
 以控件的形式组织form 界面，可以参考widget目录中现有的控件实现个性化的控件。
+
 
 按如下操作
 
