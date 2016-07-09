@@ -21,6 +21,13 @@
 
 7. 执行 ./artisan serve
 
+界面截图：
+<img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/2.png' width="60%" height="60%" >
+<img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/3.png' width="60%" height="60%" >
+<img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/4.png' width="60%" height="60%" >
+<img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/5.png' width="60%" height="60%" >
+<img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/6.png' width="60%" height="60%" >
+
 
 user:admin
 password:123456
