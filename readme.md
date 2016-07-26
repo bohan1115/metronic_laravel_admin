@@ -39,6 +39,7 @@ password:123456
 <img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/4.png' width="60%" height="60%" >
 <img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/5.png' width="60%" height="60%" >
 <img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/6.png' width="60%" height="60%" >
+<img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/8.png' width="100%" height="100%" >
 
 
 
