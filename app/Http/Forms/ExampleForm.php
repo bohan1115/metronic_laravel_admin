@@ -19,7 +19,14 @@ class ExampleForm extends Form
             ->add('sn','text',['label'=>'SN'])
             ->add('price','text',['label'=>'价格'])
             ->add('status','select',['label'=>'状态','choices'=>['1'=>'上架','2'=>'下架'],'selectd'=>1])
+             ->add('pcas','pcas',[
+                'label'=>'地区',
+            ])
+            ->add('tages','tagesinput',[
+                'label'=>'标签','data'=>'Tag0,Tag1',
+            ])
             ->add('description','textarea',['label'=>'简介'])
+            ->add('editor','editor',['label'=>'编辑器'])
             ->add('save','submit',['label'=>'保存'])
             ->add('cancel','reset',['label'=>'取消']);
     }
