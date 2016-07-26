@@ -33,9 +33,10 @@ return [
     'custom_fields' => [
 //        'datetime' => 'App\Forms\Fields\Datetime'
           'multiselect'=>'App\Http\Widgets\MultiSelectField',
-          'area'=>'App\Http\Widgets\AreaField',
+          'pcas'=>'App\Http\Widgets\PCASField',
           'select_extend'=>'App\Http\Widgets\SelectExtendField',
           'editor'=>'App\Http\Widgets\EditorField',
+          'tagesinput'=>'App\Http\Widgets\TagesInputField',
 
     ]
 ];
